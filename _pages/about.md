@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Data For Social Goods
 permalink: /about
 comments: true
 ---
@@ -8,9 +8,9 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>This website is built as a canvas for my innovation process in AI for Food and Good. My goal is to be able to use technology for social improvement, hence the content of this site is not limited to AI technology but also includes other aspects of tech, which may not receive as much viisibility as AI in recent years.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/foodawareness.png" alt="food awareness" /></p>
 <h4>Documentation</h4>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
